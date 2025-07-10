@@ -2,7 +2,7 @@
 title: "Best Time to Prepare for Winter is Summer"
 description: "Set up your hives for Winter, Treat for Mites, Feed, and Hug?"
 pubDate: "Jul 10 2025"
-heroImage: "/apivar-1.jpg
+heroImage: "/apivar-1.jpg"
 ---
 
 Hey y'all,
