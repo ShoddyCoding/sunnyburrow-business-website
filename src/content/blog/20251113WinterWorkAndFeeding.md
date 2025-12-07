@@ -2,7 +2,7 @@
 title: "Winter Work and Feeding: Preparing 9 Hives for the Cold Months"
 description: "Strategic planning for hive reduction, winter feeding protocols, and mite treatments through the darkest weeks of December"
 pubDate: "November 13 2025"
-heroImage: "/beeFeed.jpeg"
+heroImage: "/beeFeed.jpg"
 ---
 
 ## Looking Ahead: A Year of Strategic Change
