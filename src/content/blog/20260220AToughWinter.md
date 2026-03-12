@@ -2,7 +2,7 @@
 title: "A Tough Winter"
 description: "Late swarms and young queens"
 pubDate: "February 20 2026"
-heroImage: "/snowy.png"
+heroImage: "/snowy.jpg"
 ---
 
 We had a tough winter: record-breaking snow, record-breaking cold, and record-breaking nail-biting on my part.
