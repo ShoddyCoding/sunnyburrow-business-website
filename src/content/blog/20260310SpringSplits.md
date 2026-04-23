@@ -5,7 +5,13 @@ pubDate: "March 10 2026"
 heroImage: "/demaree.png"
 ---
 
-Spring has sprung, and our cherries and red maples are blooming, a sure sign that nectar is coming on strong in our area. The hives are raising drones, which means swarm season is right around the corner.
+## Environmental Notes
+
+- Spring has sprung, and our cherries and red maples are blooming.
+- Nectar is coming on strong in our area.
+- The hives are raising drones, which means swarm season is right around the corner.
+
+## Yard Layout
 
 To keep everything straight this year, I am using a position system based on the entry gate:
 
@@ -24,25 +30,34 @@ Here is the layout map:
 +----------------------------------+
 ```
 
-So start your engines, we kicked off the bee year with a bang.
+## What We Did
 
-It was 84 degrees when we started inspections, unseasonably warm for March.
+- We kicked off the bee year with a bang.
+- It was 84 degrees when we started inspections, unseasonably warm for March.
 
-### Hive Notes
+### First Hive (R1H1)
+- A quick inspection found the queen in the upper brood box with 10 frames of brood, resources, and honey.
+- We performed a classic split into two hives, placing the new hive at R2H2.
 
-**First hive (r1h1)**
-A quick inspection found the queen in the upper brood box with 10 frames of brood, resources, and honey. We performed a classic split into two hives, placing the new hive at r2h2.
+### Second Hive (R1H2)
+- Another classic split.
+- The second hive was placed at R1H3.
 
-**Second hive (r1h2)**
-Another classic split. The second hive was placed at r1h3.
+### Third Hive (R2H1)
+- Only a tiny amount of eggs and brood.
+- We reduced this colony down to one box.
+- I do not think they will make it.
 
-**Third hive (r2h1)**
-Only a tiny amount of eggs and brood. We reduced this colony down to one box. I do not think they will make it.
+### Fourth Hive (R3H1)
+- Emergency Demaree.
+- I could not find the queen, so I did the next best thing: shook all bees into the bottom box, put brood above, and moved on.
+- Not ideal, but it should prevent a swarm in the next few days.
 
-**Fourth hive (r3h1)**
-Emergency Demaree. I could not find the queen, so I did the next best thing: shook all bees into the bottom box, put brood above, and moved on. Not ideal, but it should prevent a swarm in the next few days.
+### Fifth Hive (R1H3)
+- This hive appears to have absconded as well.
 
-**Fifth hive (r1h3)**
-This hive appears to have absconded as well.
+## Next Look
 
-By the end of this round of splits, it looks like we are sitting at 6 hives. We may lose one due to weak population, but we may also gain one if I complete a full split from the Demaree colony once I locate the queen. I will give it a week, inspect again, and decide whether to split or cut queen cells and keep one monster hive.
+- By the end of this round of splits, it looks like we are sitting at 6 hives.
+- We may lose one due to weak population, but we may also gain one if I complete a full split from the Demaree colony once I locate the queen.
+- I will give it a week, inspect again, and decide whether to split or cut queen cells and keep one monster hive.
