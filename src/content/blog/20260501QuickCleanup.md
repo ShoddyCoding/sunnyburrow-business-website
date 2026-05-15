@@ -7,7 +7,7 @@ heroImage: "/larva.jpg"
 ## Environmental Notes
 
 - Poplar bloom is starting to fade, seeing the blossoms on the ground now.
-- Still in a stage 2 drought with now rain documented in April.
+- Still in a stage 2 drought with no rain documented in April.
 
 ## Notes from Last Time
 
